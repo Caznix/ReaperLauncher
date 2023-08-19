@@ -7,7 +7,7 @@ with ReaperLauncher we aim to give a premium experince without the restrictions 
 
 ## 🚘Roadmap
 
-Initalize project with microsoft and azure <- Current
+* Initalize project with microsoft and azure <- Current
 * Create project base features in python and kivy
 * Implement basic mod validity checks (and maybe a database for compatible mods?)
 * Get feedback and tweak UI/UX
