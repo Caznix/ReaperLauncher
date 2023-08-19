@@ -8,11 +8,11 @@ with ReaperLauncher we aim to give a premium experince without the restrictions 
 ## Roadmap
 
 Initalize project with microsoft and azure <- Current
-Create project base features in python and kivy
-Implement basic mod validity checks (and maybe a database for compatible mods?)
-Get feedback and tweak UI/UX
-Release 1.0.0! 🎊
-Move onto next roadmap
+* Create project base features in python and kivy
+* Implement basic mod validity checks (and maybe a database for compatible mods?)
+* Get feedback and tweak UI/UX
+* Release 1.0.0! 🎊
+* Move onto next roadmap
 ### Remember, this project is in its earliest stages!
 
 
